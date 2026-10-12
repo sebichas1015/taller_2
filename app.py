@@ -29,7 +29,7 @@ def load_data():
 
     return dfr
     
-
+# comentario sin efecto
 # Cargar datos
 data = load_data()
 
