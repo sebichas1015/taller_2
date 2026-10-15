@@ -6,8 +6,7 @@ import plotly.graph_objs as go
 import numpy as np
 import pandas as pd
 import datetime as dt
-
-
+#Estos son los cambios que hace Pedro en una Branch en el repositorio de Sebas como parte del ejercicio
 
 app = dash.Dash(
     __name__,
